@@ -1,1 +1,22 @@
+{
+  "name": "Daiwo Token List",
+  "logoURI": "https://your-project-logo-url.png",
+  "keywords": ["daiwo", "token"],
+  "timestamp": "2025-01-27T22:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2c95a2A76d58c4f8B790d4b3D272a10b85BbD637",
+      "symbol": "DAIWO",
+      "name": "Daiwo Token",
+      "decimals": 18,
+      "logoURI": "https://imgur.com/a/daiwo-logo-png-Xc5oFj4"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
 
